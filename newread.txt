@@ -4,4 +4,9 @@ git add
 git commit -m "first"
 second 2
 git status
+three 3
+git add
+dit commit -m ""
+git init
+git status
 
